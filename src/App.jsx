@@ -4,7 +4,7 @@ import Cabecalho from "./componentes/Cabecalho"
 import BarraLateral from "./componentes/BarraLateral"
 import Banner from "./componentes/Banner"
 import bannerBackground from './assets/banner.png'
-import Galeria from "./componentes/Galeria"h
+import Galeria from "./componentes/Galeria"
 
 import fotos from './fotos.json'
 import { useState } from "react"
